@@ -1,3 +1,6 @@
-body{background-color: brown;
+body{
+    background-color: brown;
 color: red;
+text-align:center
+margin:100px 0;
 }
